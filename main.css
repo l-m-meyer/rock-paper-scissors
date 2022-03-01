@@ -1,0 +1,24 @@
+html, body {
+  max-width: 100vw;
+  max-height: 100vh;
+  margin: auto;
+}
+body {
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: center;
+}
+
+div.options input {
+  border: 1px solid black;
+  border-radius: 50%;
+  padding: 10px;
+  margin: 20px;
+  height: 150px;
+  width: 150px;
+}
+
+div.options input#paper {
+  border-radius: 50%;
+  background-color: #f7f7f7;
+}
