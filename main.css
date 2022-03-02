@@ -17,8 +17,3 @@ div.options input {
   height: 150px;
   width: 150px;
 }
-
-div.options input#paper {
-  border-radius: 50%;
-  background-color: #f7f7f7;
-}
